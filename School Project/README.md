@@ -6,3 +6,8 @@ Ce projet a pour but de manier le patron Oberveur/Observée et la bibliothèque 
 <h1>Pentamino</h1>
 
 Ce projet a pour but d'uttiliser tout ce qui a été enseigner lors de la première année de DUT Informatique afin de créer un petit jeux 
+
+
+<h1>Monster</h1>
+
+Ce projet à pour but de manier le java script au travers d'un petit jeu de gestion de monstre (attention au flash lumineux)
