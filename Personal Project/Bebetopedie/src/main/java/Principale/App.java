@@ -1,4 +1,4 @@
-package Principale;
+rpackage Principale;
 
 import Insecte.*;
 import Poisson.*;
@@ -431,7 +431,7 @@ public class App extends ListenerAdapter implements Serializable{
 
 
     public static void main(String[] args) throws LoginException, ParseException, IOException, ClassNotFoundException, InterruptedException {
-        JDABuilder jda = JDABuilder.createDefault("OTIyNDQ2OTAxNzQyMjc2NjM4.YcBlnw.juaVjvxSENnUE6pRSLCxZNrMP4k");
+        JDABuilder jda = JDABuilder.createDefault(args[0]);
         jda.disableCache(CacheFlag.MEMBER_OVERRIDES,CacheFlag.VOICE_STATE);
         App a = App.charge();
         App.remplir();
