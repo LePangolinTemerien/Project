@@ -1,3 +1,8 @@
+<h1>Application Fond d'écran</h1>
+
+Cette application est un test pour manier le develeppement d'application sur Android c'est une application basic qui permet de changer son fond d'écrant, de récuperer une image a partir de la galerie et de l'enregistrer dans une liste d'image
+
+
 <h1>Bebetopedie</h1>
 
 Bebetopedie est un projet de bot discord qui permet aux joueurs d'un jeux appeller Animal Crossing de savoir qu'elle poisson son disponible a l'horaire courrante avec la commande 
