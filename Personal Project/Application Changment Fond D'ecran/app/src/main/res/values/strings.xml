@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wallpaper changer</string>
+    <string name="baise_ta_mere">Baise ta mere</string>
+    <string name="change_le_text">Change</string>
+    <string name="gallery">gallery</string>
+    <string name="preferences">preferences</string>
+    <string name="wallpaper">wallpaper</string>
+    <string name="enregistrer">Save</string>
+    <string name="suppr">Delete</string>
+</resources>
