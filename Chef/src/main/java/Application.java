@@ -121,7 +121,7 @@ public class Application extends ListenerAdapter implements Serializable {
     }
 
     public static void main(String[] args) throws LoginException, IOException, ClassNotFoundException {
-        JDABuilder builder = JDABuilder.createDefault("ODkxNjkzOTg0MzM2OTY5NzY5.YVCEvA.1t2gIaDbU3UFa_7xKAaLgOq6nFk");
+        JDABuilder builder = JDABuilder.createDefault(args[0]);
         builder.disableCache(CacheFlag.MEMBER_OVERRIDES, CacheFlag.VOICE_STATE);
         Application application = Application.charge();
         builder.addEventListeners(application);
