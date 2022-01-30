@@ -2,6 +2,10 @@
 
 Cette application est un test pour manier le develeppement d'application sur Android c'est une application basic qui permet de changer son fond d'écrant, de récuperer une image a partir de la galerie et de l'enregistrer dans une liste d'image
 
+<h1>Apprentissage Dart</h1>
+
+Ce dossier a pour unique but d'apprendre le langage DART afin de plus tard crée une application en flutter afin de manier ce langage
+
 
 <h1>Bebetopedie</h1>
 
