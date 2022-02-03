@@ -20,3 +20,6 @@ correspondant à chaque poisson du jeux
 Ceci est le premier bot discord crée avec la bibliotheque Java Discord Api dans le but de récupérer le menu disponible dans le restaurant universitaire proche de mon lieu d'étude
 <br>
 (Les tokens ne sont plus les bons pour les petits malins)
+
+
+Certain dossier ne sont pas disponible sur le github en raison d'un import trop lourd (+ 100mo) comme le .gradle, je m'en excuse
