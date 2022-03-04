@@ -23,3 +23,8 @@ Ceci est le premier bot discord crée avec la bibliotheque Java Discord Api dans
 
 
 Certain dossier ne sont pas disponible sur le github en raison d'un import trop lourd (+ 100mo) comme le .gradle, je m'en excuse
+
+
+<h1>MangApp</h1>
+
+Application réalisé avec le langage DART qui permet d'ajouter des mangas qui sortent sur toute l'année courante a une liste personnel de souhait
