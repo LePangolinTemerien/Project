@@ -11,3 +11,7 @@ Ce projet a pour but d'uttiliser tout ce qui a été enseigner lors de la premi�
 <h1>Monster</h1>
 
 Ce projet à pour but de manier le java script au travers d'un petit jeu de gestion de monstre (attention au flash lumineux)
+
+<h1>GenshinBuild </h1>
+
+Ce projet a pour but d'uttilise le framework Cordova afin de crée une application web mobile, ici seul le www est mis avec directement l'apk
