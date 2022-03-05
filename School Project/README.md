@@ -14,5 +14,5 @@ Ce projet à pour but de manier le java script au travers d'un petit jeu de gest
 
 <h1>GenshinBuild </h1>
 
-Ce projet a pour but d'uttilise le framework Cordova afin de crée une application web mobile, ici seul le www est mis 
+Ce projet a pour but d'uttilise le framework Cordova afin de crée une application web mobile, ici seul le www est mis <br>
 Le site est aussi héberger a cette adresse : https://genshinbuild.alwaysdata.net
